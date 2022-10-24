@@ -1,0 +1,42 @@
+*{
+    background-color:rgb(201, 171, 201);
+    color: black;
+    text-align:center;
+}
+
+#imgdeperfil{
+    border-radius: 255px;
+    border:solid 5px;
+    border-color: rgb(16, 14, 17);
+}
+
+h2{
+    font-size: 300%;
+    font-weight:bold;
+}
+
+.titulos{
+    font-size:225%;
+    font-style:italic;
+}
+
+#biografia{
+    width:500px;
+    height:0,5;
+}
+
+#lasobrasmasimportantesdemaryshelley{
+    display:inline-block;
+}
+
+#familia{
+    display:inline-block;
+}
+
+#conyuge{
+    display:inline-block;
+}
+
+#hijo{
+    display:inline-block;
+}
